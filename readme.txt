@@ -20,11 +20,11 @@ Hints enables you to provide a better UX with respect to links/topics. Some keyw
 * Shortcodes based.
 * Two options to set within shortcodes. See the tutorial video below.
 
-**Tutorial Video.**
+**Tutorial Video:**
 
 [Here's the usage &amp; tutorial video](https://sojourner.co/blog/code/wp-plugin-hints.html).
 
-**Support and Feature Requests**
+**For Support and Feature Requests:**
 
 Use the comment box over at [https://sojourner.co/blog/code/wp-plugin-hints.html](https://sojourner.co/blog/code/wp-plugin-hints.html)
 
