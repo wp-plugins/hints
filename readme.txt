@@ -22,7 +22,11 @@ Hints enables you to provide a better UX with respect to links/topics. Some keyw
 
 **Tutorial Video.**
 
-[Here's the usage &amp; tutorial video](https://vimeo.com/122846902).
+[Here's the usage &amp; tutorial video](https://sojourner.co/blog/code/wp-plugin-hints.html).
+
+**Support and Feature Requests**
+
+Use the comment box over at [https://sojourner.co/blog/code/wp-plugin-hints.html](https://sojourner.co/blog/code/wp-plugin-hints.html)
 
 == Installation ==
 
