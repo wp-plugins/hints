@@ -6,7 +6,7 @@ Tested up to: 4.1.x
 Stable tag: 1.a
 License: GPLv2 or later
 
-Provide a better user experience for you users, when they read your posts. Reduce the number outgoing, non-essential links. [More about Hints](https://sojourner.co/blog/code/wp-plugin-hints.html).
+Provide a better user experience for you users, when they read your posts. Reduce the number outgoing, non-essential links. 
 
 == Description ==
 
